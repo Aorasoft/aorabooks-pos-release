@@ -1,1 +1,0 @@
-# aorabooks-pos-release
